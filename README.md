@@ -65,7 +65,7 @@ Operators (AKA WTF Are These Symbols?)
 Mindfuck includes a variety of operators for arithmetic, logic, and bitwise operations. Here’s a quick rundown:
 
 Operator        Description	        Example
-Blowjob (+)	    Addition                Dick sum = 5 Blowjob 3;
+Blowjob (+)	    Addition            Dick sum = 5 Blowjob 3;
 Suck (-)        Subtraction	        Dick diff = 10 Suck 4;
 Spank (*)       Multiplication          Dick prod = 6 Spank 7;
 Whip (/)        Division                Dick quot = 8 Whip 2;
