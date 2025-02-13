@@ -1,5 +1,4 @@
-
-# **Mindfuck Programming Language Documentation**
+# **Mindfuck Programming Language Documentation (Expanded)**
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -43,10 +42,39 @@ Mindfuck takes the spirit of Brainfuck—minimalism, challenge, and absurdity—
 
 For example:
 - In Brainfuck, incrementing a memory cell is done with `+`.  
-  In Mindfuck, you might use `Blow` or `Spank` for arithmetic operations.
+  In Mindfuck, you might use `Blowjob` or `Spank` for arithmetic operations.
 - Brainfuck’s loops (`[` and `]`) are replaced in Mindfuck with `Cunt`.
 
 By building on the legacy of Brainfuck, Mindfuck pushes the boundaries of what a programming language can look like, offering a fresh (and hilariously inappropriate) take on esoteric language design.
+
+---
+
+## Key Takeaways
+
+### Shock Value and Humor:
+Mindfuck uses explicit keywords like `Fuck`, `Dick`, `Tits`, and `Shit` to create a deliberately provocative syntax. This approach is not just for shock value but also to encourage creativity and experimentation in language design.
+
+### Inspiration from Brainfuck:
+By building on the minimalist and esoteric nature of Brainfuck, Mindfuck adds a layer of absurdity while maintaining Turing-completeness. The use of profane keywords replaces Brainfuck's cryptic symbols, making it more readable (albeit hilariously inappropriate).
+
+### Core Features:
+Variables (`Dick`), functions (`Pussy`), output (`Tits`), assignment (`Ass`), and error handling (`Shit`) form the backbone of the language.
+Operators like `Blow` (addition), `Suck` (subtraction), and `Spank` (multiplication) add a playful twist to arithmetic operations.
+
+### Control Structures:
+Conditional statements (`Balls` and `Else`), loops (`Cunt`), and switch-case (`Cock`) provide familiar programming constructs with unconventional naming.
+
+### Data Structures:
+Arrays (`Boobs`) and hash maps (`Taint`) allow for structured data manipulation, while concurrency primitives (`Threesome` and `Orgy`) enable multi-threaded programming.
+
+### File I/O:
+Writing (`Piss`) and reading (`Poop`) files demonstrate the language's ability to interact with external resources.
+
+### Explanation of `Squirt`:
+The `Squirt` command is introduced as a way to stream data to an output stream, such as writing to a file or sending data over a network. It complements the `Piss` and `Poop` commands for file I/O, providing a mechanism for continuous or buffered output.
+
+### Error Handling:
+The combination of `Fuck` and `Shit` blocks ensures robust error handling, albeit with a humorous twist.
 
 ---
 
@@ -74,7 +102,7 @@ Variables are declared using the keyword `Dick`. They can store integers, string
 Dick age = 25;
 Dick name = "John Doe";
 Functions: Pussy
-Functions are defined using the keyword Pussy. Use Cum or Butt to return values.
+Functions are defined using the keyword Pussy. Use Cum or Boner to return values.
 
 
 Pussy greet() {
@@ -110,13 +138,32 @@ Operators
 Mindfuck includes a variety of operators for arithmetic, logic, and bitwise operations.
 
 Operator	Description	Example
-Blow (+)	Addition	Dick sum = 5 Blow 3;
+Blowjob (+)	Addition	Dick sum = 5 Blowjob 3;
 Suck (-)	Subtraction	Dick diff = 10 Suck 4;
 Spank (*)	Multiplication	Dick prod = 6 Spank 7;
 Whip (/)	Division	Dick quot = 8 Whip 2;
 `Fart (	)`	Bitwise OR
 Queef (&)	Bitwise AND	Dick result = 5 Queef 3;
 Wank (^)	Bitwise XOR	Dick result = 5 Wank 3;
+Jerk	Increment	Jerk x;
+Handjob	Decrement	Handjob x;
+Clit	Modulus	Dick mod = 10 Clit 3;
+Foreskin	Exponentiation	Dick exp = 2 Foreskin 3;
+Dildo	Concatenation	Dick str = "Hello" Dildo "World";
+Turd	Negation	Dick neg = Turd 5;
+Bollocks	Logical NOT	Dick bool = Bollocks true;
+Bullshit	Logical AND	Dick and = true Bullshit false;
+Slut	Logical OR	Dick or = true Slut false;
+Twat	Equality	Dick eq = (x Twat y);
+Shithole	Inequality	Dick neq = (x Shithole y);
+Milf	Greater than	Dick gt = (x Milf y);
+Motherfucker	Less than	Dick lt = (x Motherfucker y);
+Cocknose	Greater or equal	Dick gte = (x Cocknose y);
+Cuntface	Less or equal	Dick lte = (x Cuntface y);
+Dumbass	Null check	Dick nullCheck = Dumbass x;
+Asshole	Dereference	Dick deref = Asshole ptr;
+Whore	Reference	Dick ref = Whore x;
+Squirt	Stream output	Squirt("output.txt", "Data");
 Control Structures
 Conditional Statements: Balls and Else
 Use Balls for conditionals and Else for fallbacks.
@@ -135,8 +182,8 @@ The Cunt keyword creates loops.
 
 Dick i = 0;
 Cunt (i < 5) {
-    Tits("Iteration: " Blow i);
-    Ass(i, i Blow 1);
+    Tits("Iteration: " Blowjob i);
+    Ass(i, i Blowjob 1);
 }
 Switch-Case: Cock
 For multi-branch logic, use Cock.
@@ -192,12 +239,17 @@ Write data to files using Piss.
 
 
 Piss("output.txt", "Hello, Mindfuck!");
-Reading Files: Vomit
-Read data from files using Vomit.
+Reading Files: Poop
+Read data from files using Poop.
 
 
-Dick content = Vomit("input.txt");
+Dick content = Poop("input.txt");
 Tits(content);
+Streaming Output: Squirt
+Stream data to an output stream using Squirt.
+
+
+Squirt("output.txt", "Streaming data...");
 Error Handling
 Handle errors using Fuck and Shit.
 
@@ -218,19 +270,20 @@ Fuck {
 Simple Calculator
 
 Pussy add(Dick a, Dick b) {
-    Cum a Blow b;
+    Cum a Blowjob b;
 }
 
 Fuck {
     Dick result = add(5, 7);
-    Tits("Result: " Blow result);
+    Tits("Result: " Blowjob result);
 }
 Random Number Generator
 
 Fuck {
     Dick randomNum = Jizz(1, 10);
-    Tits("Random number: " Blow randomNum);
+    Tits("Random number: " Blowjob randomNum);
 }
+
 Conclusion
 Mindfuck is a bold experiment in programming language design, blending humor and functionality into a unique package. While it may not replace Python or JavaScript anytime soon, it offers a fresh perspective on creativity and innovation in coding. Whether you’re looking to challenge your assumptions, spark laughter, or simply try something new, Mindfuck has something for everyone.
 
@@ -239,4 +292,3 @@ Happy coding—and remember, don’t take yourself too seriously!
 
 
 ---
-
