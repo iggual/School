@@ -65,32 +65,32 @@ Operators (AKA WTF Are These Symbols?)
 Mindfuck includes a variety of operators for arithmetic, logic, and bitwise operations. Here’s a quick rundown:
 
 Operator	    Description	        Example
-Blowjob (+)	    Addition	        Dick sum = 5 Blowjob 3;
+Blowjob (+)	    Addition            Dick sum = 5 Blowjob 3;
 Suck (-)	    Subtraction	        Dick diff = 10 Suck 4;
-Spank (*)	    Multiplication	    Dick prod = 6 Spank 7;
-Whip (/)	    Division	        Dick quot = 8 Whip 2;
+Spank (*)	    Multiplication      Dick prod = 6 Spank 7;
+Whip (/)	    Division            Dick quot = 8 Whip 2;
 `Fart (	)`	    Bitwise OR
 Queef (&)	    Bitwise AND	        Dick result = 5 Queef 3;
 Wank (^)	    Bitwise XOR	        Dick result = 5 Wank 3;
-Jerk	        Increment	        Jerk x;
-Handjob	        Decrement	        Handjob x;
+Jerk	        Increment           Jerk x;
+Handjob	        Decrement           Handjob x;
 Clit	        Modulus	            Dick mod = 10 Clit 3;
 Foreskin	    Exponentiation	    Dick exp = 2 Foreskin 3;
 Dildo	        Concatenation	    Dick str = "Hello" Dildo "World";
-Turd	        Negation	        Dick neg = Turd 5;
+Turd	        Negation            Dick neg = Turd 5;
 Bollocks	    Logical NOT	        Dick bool = Bollocks true;
 Bullshit	    Logical AND	        Dick and = true Bullshit false;
-Slut	        Logical OR	        Dick or = true Slut false;
-Twat	        Equality	        Dick eq = (x Twat y);
-Shithole	    Inequality	        Dick neq = (x Shithole y);
-Milf	        Greater than	    Dick gt = (x Milf y);
-Motherfucker	Less than	        Dick lt = (x Motherfucker y);
-Cocknose	    Greater or equal	Dick gte = (x Cocknose y);
+Slut	        Logical OR          Dick or = true Slut false;
+Twat	        Equality            Dick eq = (x Twat y);
+Shithole	    Inequality          Dick neq = (x Shithole y);
+Milf	        Greater than        Dick gt = (x Milf y);
+Motherfucker	Less than           Dick lt = (x Motherfucker y);
+Cocknose	    Greater or equal    Dick gte = (x Cocknose y);
 Cuntface	    Less or equal       Dick lte = (x Cuntface y);
-Dumbass	        Null check	        Dick nullCheck = Dumbass x;
+Dumbass	        Null check          Dick nullCheck = Dumbass x;
 Asshole	        Dereference	        Dick deref = Asshole ptr;
-Whore	        Reference	        Dick ref = Whore x;
-Squirt	        Stream output	    Squirt("output.txt", "Data");
+Whore	        Reference           Dick ref = Whore x;
+Squirt	        Stream output       Squirt("output.txt", "Data");
 
 Control Structures (AKA WTF Is This Logic?)
 Conditional Statements: Balls and Else
