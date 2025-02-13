@@ -283,9 +283,9 @@ Fuck {
     Dick randomNum = Jizz(1, 10);
     Tits("Random number: " Blowjob randomNum);
 }
+```
 
-
-Conclusion
+##Conclusion
 
 Mindfuck is a bold experiment in programming language design, blending humor and functionality into a unique package. While it may not replace Python or JavaScript anytime soon, it offers a fresh perspective on creativity and innovation in coding. Whether you’re looking to challenge your assumptions, spark laughter, or simply try something new, Mindfuck has something for everyone.
 
