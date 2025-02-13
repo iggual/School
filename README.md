@@ -210,20 +210,20 @@ Fuck {
     Dick randomNum = Jizz(1, 10);
     Tits("Random number: " Blowjob randomNum);
 }
+```
+## **Conclusion (AKA WTF Did I Just Read?)**
 
-
-Conclusion (AKA WTF Did I Just Read?)
 Mindfuck is a bold experiment in programming language design, blending humor and functionality into a unique package. While it may not replace Python or JavaScript anytime soon, it offers a fresh perspective on creativity and innovation in coding. Whether you’re looking to challenge your assumptions, spark laughter, or simply try something new, Mindfuck has something for everyone.
 
 Happy coding—and remember, don’t take yourself too seriously!
 
-Contributing (AKA WTF Can I Do to Help?)
+## **Contributing (AKA WTF Can I Do to Help?)**
 Want to contribute? Great! Fork the repo, add your own ridiculous features, and submit a pull request. Just don’t blame us if your PR gets rejected for being too sane.
 
-License (AKA WTF Can I Do With This?)
+## **License (AKA WTF Can I Do With This?)**
 Mindfuck is licensed under the WTFPL (Do What the Fuck You Want to Public License). Feel free to use, modify, and distribute it however you want. Just don’t sue us if your computer explodes.
 
-Final Words
+## **Final Words**
 Mindfuck is proof that programming doesn’t have to be boring. So go ahead—write some code, laugh at the absurdity, and embrace the chaos. After all, life’s too short to take seriously.
 
 Now go forth and Fuck, Tits, and Shit your way to greatness! 
@@ -232,3 +232,4 @@ Have a great day, and keep laughing—it’s the best debugging tool! 😂
 
 
 ---
+
