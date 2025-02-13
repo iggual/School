@@ -213,7 +213,7 @@ Fuck {
 ```
 ## **Conclusion (AKA WTF Did I Just Read?)**
 
-Mindfuck is a bold experiment in programming language design, blending humor and functionality into a unique package. While it may not replace Python or JavaScript anytime soon, it offers a fresh perspective on creativity and innovation in coding. Whether you’re looking to challenge your assumptions, spark laughter, or simply try something new, Mindfuck has something for everyone.
+Mindfuck is a **bold experiment** in programming language design, blending humor and functionality into a unique package. While it may not replace Python or JavaScript anytime soon, it offers a fresh perspective on creativity and innovation in coding. Whether you’re looking to challenge your assumptions, spark laughter, or simply try something new, Mindfuck has something for everyone.
 
 Happy coding—and remember, don’t take yourself too seriously!
 
