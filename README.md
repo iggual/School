@@ -226,9 +226,9 @@ Mindfuck is licensed under the WTFPL (Do What the Fuck You Want to Public Licens
 Final Words
 Mindfuck is proof that programming doesn’t have to be boring. So go ahead—write some code, laugh at the absurdity, and embrace the chaos. After all, life’s too short to take seriously.
 
-Now go forth and Fuck, Tits, and Shit your way to greatness! 🚀
+Now go forth and Fuck, Tits, and Shit your way to greatness! 
 
-Have a great day, and keep laughing—it’s the best debugging tool! 😂🎉
+Have a great day, and keep laughing—it’s the best debugging tool! 😂
 
 
 ---
