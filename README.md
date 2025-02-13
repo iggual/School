@@ -221,7 +221,7 @@ Happy coding—and remember, don’t take yourself too seriously!
 Want to contribute? Great! Fork the repo, add your own ridiculous features, and submit a pull request. Just don’t blame us if your PR gets rejected for being too sane.
 
 ## **License (AKA WTF Can I Do With This?)**
-Mindfuck is licensed under the WTFPL (Do What the Fuck You Want to Public License). Feel free to use, modify, and distribute it however you want. Just don’t sue us if your computer explodes.
+Mindfuck is licensed under the WTFPL (Do What the Fuck You Want to Public License). Feel free to use, modify, and distribute it however you want. Just don’t sue us if your computer declare you as a Dickhead.
 
 ## **Final Words**
 Mindfuck is proof that programming doesn’t have to be boring. So go ahead—write some code, laugh at the absurdity, and embrace the chaos. After all, life’s too short to take seriously.
