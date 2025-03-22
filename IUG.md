@@ -82,7 +82,7 @@ Building systems designed to fail beautifully.
 
 - **Example Courses**:
   - "Coding in Mindfuck: Because Normal Languages Are Boring"
-  - "Breaking Things So They Work Better"
+  - "Fucking Up Things So They Work Better"
 
 ---
 
