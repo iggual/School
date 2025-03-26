@@ -1,4 +1,4 @@
-# 📝 Cheatsheets Directory
+# Cheatsheets Directory
 
 Welcome to the **Cheatsheets Directory** of the **Institute for Unconventional Genius (IUG)**! This is your one-stop-shop for all the "cheating" you’ll ever need in our hilariously unorthodox school. Remember, in IUG, cheating is not just allowed; it's encouraged (as long as it's done with style and a sense of humor)!
 
@@ -35,7 +35,7 @@ Found a particularly useful tidbit? Don’t be selfish! Share it with your fello
 4. **The Digital Age**: Utilize technology. Store your cheatsheets on your phone, but be sure to disguise them under the name "Grandma’s Recipes". No one will suspect a thing.
 5. **The Classic Cough**: If you need to communicate with a friend during a test, use the classic cough-and-tap method. Just be sure to agree on the code beforehand.
 
-## 🌟 Conclusion
+## Conclusion
 
 Remember, at the **Institute for Unconventional Genius (IUG)**, we celebrate creativity, humor, and a bit of harmless "cheating". Use these cheatsheets wisely, share them generously, and always approach your studies with a smile.
 
