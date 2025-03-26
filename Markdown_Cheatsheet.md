@@ -60,8 +60,6 @@ Wrap the link text in square brackets ([]) and the URL in parentheses (()).
 Reference Links
 Define a reference ID and use it later in the document.
 
-[Ætheria Calendar](http://epic.free.nf)
-
 
 ## 5. Images
 Inline Images
