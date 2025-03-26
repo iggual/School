@@ -16,7 +16,7 @@ We encourage fearless experimentation, irreverent approaches, and a healthy dose
 
 ---
 
-## Featured Project: Mindfuck Programming Language
+## Featured Course: Mindfuck Programming Language
 
 The **Mindfuck Programming Language** is one of our flagship projects at CCCE. It’s a deliberately absurd, intentionally difficult, and hilariously impractical language designed to push the boundaries of what programming can (or should) be.
 
