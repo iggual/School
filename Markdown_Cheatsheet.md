@@ -155,7 +155,7 @@ Use emoji shortcuts or Unicode to include emojis.
 
 :smile: :thumbsup: ❤️
 
-## 14. Advanced Tips
+## 14. More Tips!
 
 Anchors for Headings
 Add custom IDs to headings for direct linking.
