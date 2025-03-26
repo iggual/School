@@ -171,4 +171,85 @@ End a line with two spaces to force a line break.
 This is the first line.  
 This is the second line.
 
-That’s it! This Markdown Cheatsheet should cover everything you need to format your documents effectively. 😊
+That’s it! This Basic Markdown Cheatsheet should cover everything you need to format your documents effectively. 😊
+
+# Advanced Markdown Cheatsheet
+
+This **cheatsheet** covers advanced **Markdown** syntax for formatting text, creating diagrams, and more. Perfect for advanced users!
+
+## 1. Task Lists with Nested Items
+
+Create nested task lists by indenting the sub-items.
+
+- [x] Task 1
+  - [x] Sub-task 1.1
+  - [ ] Sub-task 1.2
+- [ ] Task 2
+
+## 2. Definition Lists
+
+Definition lists can be created using Markdown Extra.
+
+Term 1
+: Definition 1
+
+Term 2
+: Definition 2
+
+## 3. Highlighting Text
+
+Some Markdown processors support text highlighting using double equal signs.
+
+==Highlighted Text==
+
+## 4. Tables with Alignment
+
+Align tables using colons in the table headers.
+
+| Header 1 | Header 2 | Header 3 |
+|:--------:|:--------:|---------:|
+| Centered | Centered |  Right   |
+|    A     |     B    |      C   |
+
+## 5. Footnotes
+
+Add footnotes with [^label] and define them at the bottom of the document.
+
+Here's a footnote reference.[^2]
+
+[^2]: This is the footnote content.
+
+## 6. Collapsible Sections
+
+Create collapsible sections using HTML details and summary tags.
+
+<details>
+  <summary>Click to expand</summary>
+  
+  This is the collapsible content.
+</details>
+
+## 7. Mathematical Expressions
+
+Include mathematical expressions using LaTeX syntax.
+
+Inline: $E = mc^2$
+
+Block:
+$$
+E = mc^2
+$$
+
+## 8. Diagrams and Flowcharts
+
+Create diagrams and flowcharts using Mermaid.
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+That’s it! This Advanced Markdown Cheatsheet should cover additional formatting tricks to enhance your documents. Let me know if you’d like to expand on any section or add examples! 😊
