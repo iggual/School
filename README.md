@@ -7,7 +7,6 @@ Each folder within this directory represents a unique school or department, comp
 ---
 
 ## Structure
-
 ```
 .
 ├── README.md
