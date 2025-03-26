@@ -32,5 +32,5 @@ The **Mindfuck Programming Language** is one of our flagship projects at CCCE. I
 
 ### Documentation
 
-About [Mindfuck Programming Language](Courses/Mindfuck_Programming_Language.md.MD).
+About [Mindfuck Programming Language](Courses/Mindfuck_Programming_Language.md).
 Read [Mindfuck Programming Language Documentation](Courses/Mindfuck_Documentation.MD) (Expanded).
