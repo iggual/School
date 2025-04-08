@@ -228,8 +228,8 @@ _Go with our blessings, dear traveler. The Earth holds you, the stars guide you,
 
 **NAVAJO SAGE:** "Tell your story well, for it carries medicine for the world."
 
-_Farewell for now—but know that the fire of the Brotherhood burns eternal. Return whenever you seek clarity or strength._
+_Farewell for now—but know that the fire of the Brotherhood burns eternal. Return whenever you need clarity or strength._
 
 **Blessings on your journey,**
 
-## THE COSMIC NAGUAL BROTHERHOOD™ 
+### THE COSMIC NAGUAL BROTHERHOOD™ 
