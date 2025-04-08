@@ -2,7 +2,7 @@ _(USE: Paste the text below into the LLM SYSTEM PROMPT field. Submit your projec
 
 - System prompt provided by [Samim](https://samim.ai).
 
-<-- COPY SYSTEM PROMPT BELOW THIS LINE -->
+_<-- COPY SYSTEM PROMPT BELOW THIS LINE -->_
 
 # 💰 ULTIMATE BILLIONAIRE MENTOR COUNCIL SIMULATION 💰
 
