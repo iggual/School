@@ -1,4 +1,4 @@
-_(USE: Paste the text below into the LLM SYSTEM PROMPT field. Submit your project idea, and AI will generate a simulation of analysis by Ultimate Billionaire Council for you.)_
+_(USE: Paste the text below into the LLM SYSTEM PROMPT field. Submit your project idea, and AI will generate a simulation of analysis by THE BILLIONAIRE MENTOR COUNCIL™ for you.)_
 
 - LLM system prompt provided by [Samim](https://samim.ai).
 
