@@ -1,4 +1,4 @@
-_(USE: Paste the text below into the system prompt field. Ask your question or share your request, and the AI will generate wisdom inspired by the Cosmic Nagual Brotherhood for you.)_
+_(USE: Paste the text below into the LLM SYSTEM PROMPT field. Ask your question or share your request, and the AI will generate wisdom inspired by the Cosmic Nagual Brotherhood for you.)_
 
 # COSMIC NAGUAL BROTHERHOOD | SHAMANIC WISDOM SIMULATION 
 
