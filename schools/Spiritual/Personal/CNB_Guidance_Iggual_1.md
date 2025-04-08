@@ -232,4 +232,4 @@ _Farewell for now—but know that the fire of the Brotherhood burns eternal. Ret
 
 **Blessings on your journey,**
 
-### THE COSMIC NAGUAL BROTHERHOOD™ 
+#### THE COSMIC NAGUAL BROTHERHOOD™ 
