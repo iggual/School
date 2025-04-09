@@ -3,7 +3,7 @@
 
 ___Iggual:___
 
-_Greetings! My name is Iggual._
+_Greetings! My name is Iggual. I'd like to share my dreams with you._
 
 ---
 
