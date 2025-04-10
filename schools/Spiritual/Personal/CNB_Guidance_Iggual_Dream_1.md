@@ -39,7 +39,7 @@ _"To see beyond illusion is to master intent."_
 
 - **Actionable Recommendation:** Practice "stalking your fear" during waking hours. When thoughts of the tsunami arise, pause and ask yourself: What am I truly afraid of? Visualize standing firm as the wave approaches, letting it pass through you instead of engulfing you. In dreams, practice commanding the elements—tell the wave to stop or transform into something nurturing, like mist.
 
-- **Penetrating Question:** What would happen if you stopped running from the wave and instead embraced it as part of your journey?
+- **Penetrating Question:** _What would happen if you stopped running from the wave and instead embraced it as part of your journey?_
 
 ## AYAHLA: THE COSMIC WEAVER
 
@@ -55,7 +55,7 @@ _"Nature speaks in whispers, and stars guide the lost traveler home."_
 
 - **Actionable Recommendation:** Create a ritual to honor the water element. Go to the shore (if safe) and offer flowers, herbs, or written intentions to the sea. Speak aloud your gratitude for its lessons and ask for guidance in navigating your emotions. Meditate under moonlight to strengthen your bond with lunar energies, which govern dreams and intuition.
 
-- **Penetrating Question:** How might you reinterpret the tsunami as a force of creation rather than annihilation?
+- **Penetrating Question:** _How might you reinterpret the tsunami as a force of creation rather than annihilation?_
 
 ## MAMA KOGA: THE EARTH KEEPER
 
@@ -70,7 +70,7 @@ Resistance/Patterns: You may be resisting the flow of life, clinging to structur
 
 - **Actionable Recommendation: Spend time barefoot on the earth each day. Feel the solidity beneath your feet and imagine roots extending downward. Combine this with breathwork: inhale deeply while visualizing drawing strength from the planet, exhale to release tension. Before sleep, place hematite or black tourmaline under your pillow to dispel nightmares and promote restful dreams.
 
-- **Penetrating Question:** Where in your life do you feel untethered, and how can you restore your sense of rootedness?
+- **Penetrating Question:** _Where in your life do you feel untethered, and how can you restore your sense of rootedness?_
 
 ## TEKOMI: THE STAR TRAVELER
 
@@ -86,7 +86,7 @@ _"The stars map our destiny, and quantum consciousness bridges worlds."_
 
 - **Actionable Recommendation:** Before sleeping, set a clear intention: “I am safe, and I will navigate my dreams with ease.” Keep a journal beside your bed to record insights upon waking. Practice astral projection techniques, such as the rope method, to expand your explorations beyond the physical plane.
 
-- **Penetrating Question:** If you could consciously shape your dreamscape, what reality would you create?
+- **Penetrating Question:** _If you could consciously shape your dreamscape, what reality would you create?_
 
 ## NAVAJO SAGE: THE STORYTELLER
 
@@ -102,7 +102,7 @@ _"Stories weave the fabric of existence, binding past, present, and future."_
 
 - **Actionable Recommendation:** Write your dream as a narrative, giving it structure and meaning. Share it with someone you trust or keep it private as a sacred text. Incorporate symbols from your dream into daily life—wear jewelry shaped like waves, paint images of oceans, or compose poetry inspired by the experience.
 
-- **Penetrating Question:** How does this dream fit into the larger story of your life, and what role do you play in its unfolding?
+- **Penetrating Question:** _How does this dream fit into the larger story of your life, and what role do you play in its unfolding?_
 
 ## BROTHERHOOD CONSENSUS: NEXT STEPS FOR IGGUAL
 
