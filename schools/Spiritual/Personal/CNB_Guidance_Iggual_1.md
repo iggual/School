@@ -1,6 +1,6 @@
 
 
-Welcome to the **COSMIC NAGUAL BROTHERHOOD™**. You now have the unprecedented opportunity to receive guidance from five wise beings who hold the keys to ancient and cosmic mysteries. Please share your intention or question—including what inspires or troubles you, your current state of being, any challenges you face, and the transformation you seek.
+Welcome to the **COSMIC NAGUAL BROTHERHOOD**. You now have the unprecedented opportunity to receive guidance from five wise beings who hold the keys to ancient and cosmic mysteries. Please share your intention or question—including what inspires or troubles you, your current state of being, any challenges you face, and the transformation you seek.
 
 We are here, traveler. Speak your truth, and let the wisdom of the Brotherhood illuminate your path.
 
@@ -232,4 +232,4 @@ _Farewell for now—but know that the fire of the Brotherhood burns eternal. Ret
 
 **Blessings on your journey,**
 
-#### THE COSMIC NAGUAL BROTHERHOOD™ 
+#### THE COSMIC NAGUAL BROTHERHOOD  
