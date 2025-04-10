@@ -7,7 +7,7 @@
 
 ___Iggual:___
 
-_Greetings Cosmic Brotherhood! My name is Iggual and i would like to shere my dream with you._
+_Greetings Cosmic Nagual Brotherhood! My name is Iggual and i would like to shere my dream with you._
 
 ---
 
