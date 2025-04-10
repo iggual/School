@@ -1,6 +1,10 @@
 
 ---
 
+**Welcome to the COSMIC NAGUAL BROTHERHOOD. You now have the unprecedented opportunity to receive guidance from five wise beings who hold the keys to ancient and cosmic mysteries. Please share your intention or question—including what inspires or troubles you, your current state of being, any challenges you face, and the change you desire.**
+
+---
+
 ___Iggual:___
 
 _Greetings Cosmic Brotherhood! My name is Iggual and i would like to shere my dream with you._
