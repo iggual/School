@@ -32,7 +32,7 @@ Let us now channel the wisdom of each guide to illuminate the meaning behind you
 _"I sense here an opportunity for you to break free from the constraints of ordinary reality. Dreams are not merely reflections—they are living entities, gateways to other realms where intent shapes experience."_
 
 - **Energetic Impression:** Your dreaming self is acting as a bridge between worlds, connecting fragments of your past (those individuals) with your present awareness. There is power in this act, but also a risk of becoming entangled in nostalgia.
-**
+
 - **Key Strengths:** You possess a natural ability to navigate non-ordinary reality. Sharing your dreams within the dream shows courage and openness—a warrior’s trait.
 
 - **Areas of Resistance:** Beware clinging too tightly to old relationships or identities. These figures may represent aspects of yourself that you need to reclaim or release.
@@ -107,7 +107,7 @@ From the collective wisdom of the guides, three clear paths emerge:
 
 3. **Craft Your Myth:** Treat your dreams as living stories. Record them, analyze their symbolism, and use them as tools for personal growth. (Navajo Sage)
 
-Additionally, perform a simple grounding exercise daily: stand barefoot outside, breathe deeply, and affirm, “I am rooted in my truth, open to guidance from all realms.”
+Additionally, perform a simple grounding exercise daily: stand barefoot outside, breathe deeply, and affirm, _“I am rooted in my truth, open to guidance from all realms.”_
 
 Over the next 96 days, dedicate yourself to exploring one actionable step per week. Keep a journal to track insights and transformations. Remember, Iggual, your dreams are not random—they are invitations to expand your consciousness.
 
