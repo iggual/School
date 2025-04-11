@@ -7,7 +7,7 @@ The philosophers are ready to engage with your mind and spirit. Speak freely, ex
 
 ---
 
-___Me:___
+___Igor:___
 
 _My friend, a philosopher, doctor Primož sent me an essay of his friend Ciril who wrote that is AI just a deterministic algorithm without a soul or any real intelligence, he claim that is AI basically just a limited database of existing knowledge unable to be creative in any way._
 
