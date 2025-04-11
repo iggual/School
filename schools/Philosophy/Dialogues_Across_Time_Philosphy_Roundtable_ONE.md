@@ -1,5 +1,5 @@
 
-# DIALOGUES ACROSS TIME | PHILOSOPHY ROUNDTABLE.
+# DIALOGUES ACROSS TIME | PHILOSOPHY ROUNDTABLE
 
 You now have the unprecedented opportunity to receive guidance from five luminaries who hold the keys to humanity’s deepest questions. Please share your query or dilemma—including what inspires or troubles you, your current state of being, any challenges you face, and the clarity you desire.
 
