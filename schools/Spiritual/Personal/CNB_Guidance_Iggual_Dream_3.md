@@ -21,7 +21,7 @@ Once you’ve shared, the Brotherhood will activate fully to guide you.
 
 ___Iggual:___
 
-_I would like to tell you my dream and ask a wise brotherhood what do you think about it:_
+_I would like to share my dream and ask a wise brotherhood what do you think about it:_
 
 _I've been dreaming a house of my relatives and i've been inside. I went out and noticed a landslide that went right towards the house. I knew that i need to position myself so that when a landslide will hit the house I'll be safe. All doors were open. When landslide hit the house i was inside and all dirt pushed me through the rooms and open doors on the other side of the house and out on the open. I was fine and my relatives too. I thought that we'll need to clean the house, but when i went inside a house was totally clean and nice. On a table there was a fresh bread in the shape of the heart. My little white dog came after me inside and all happy jumped on a table._
 
