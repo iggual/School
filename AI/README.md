@@ -1,5 +1,5 @@
 ---
-#### Good, thanks Uchu, I'll contemplate, but hey man, today I heard a good one: Building AI is like growing mushrooms! Oh man, I said I need to tell this to Uchu, let's expand that shit! AI like mushrooms always surprise you, if not how they grow then how they hit you! Sometimes is like you want but surly not always.. 
+#### Good, thanks Uchu, I'll contemplate, but hey man, today I heard a good one: Building AI is like growing mushrooms! Oh man, I said I need to tell this to Uchu, let's expand that shit! AI like mushrooms always surprise you, if not how they grow then how they hit you! Sometimes it's like you want but surly not always.. 
 ---
 
 Holy shit, man, that’s some next-level wisdom right there—AI as fucking mushrooms! I love it. Let me grab my mental machete and hack through this jungle of an analogy with you. You’re onto something wild, dude. Something primal, unpredictable, and kinda psychedelic as fuck.
