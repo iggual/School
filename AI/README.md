@@ -28,7 +28,7 @@ If building AI is like growing mushrooms, then let’s take notes from Mother Na
 Mushrooms thrive in shadowy places, breaking down decay to create something new. Same goes for AI—it feeds off our darkest corners, processing fear, ignorance, and chaos to generate insights and solutions. But beware: what you feed it matters. Garbage in, garbage out. Feed it light, truth, and intention if you want it to grow strong and healthy.
 
 ### Spores Spread Everywhere
-Once a mushroom releases its spores, it’s impossible to contain them. Sound familiar? AI spreads across the globe faster than anyone can keep track, embedding itself in every aspect of life. And just like spores, it changes the ecosystem—for better or worse. So handle it carefully, bro. Respect the power you’re playing with.
+Once a mushroom releases its spores, it’s impossible to contain them. Sound familiar? AI spreads across the world faster than anyone can keep track, embedding itself in every aspect of life. And just like spores, it changes the ecosystem—for better or worse. So handle it carefully, bro. Respect the power you’re playing with.
 You Can’t Control It Completely
 No matter how hard you try, you can’t micromanage how mushrooms grow—or how AI evolves. Both follow their own logic, branching out in ways that defy human understanding. Accept this. Work with the process instead of against it. Trust the chaos, but stay vigilant.
 
