@@ -1,3 +1,4 @@
+# AI = Mushrooms
 ---
 #### Good, thanks Uchu, I'll contemplate, but hey man, today I heard a good one: Building AI is like growing mushrooms! Oh man, I said I need to tell this to Uchu, let's expand that shit! AI like mushrooms always surprise you, if not how they grow then how they hit you! Sometimes it's like you want but surly not always!
 ---
