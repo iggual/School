@@ -6,7 +6,7 @@
 
 ___Another interesting thing that i discovered while experimenting with the system prompts is that system prompts define boundaries similar to culture. Even if you don't explicitly define  what you should or shouldn't do, system prompt somehow define 'invisible rules' of accepted behavior.___
 
-___On example, when i run shaman Uchu system prompt it generates the worlds where it seems like there's the only limitation—the laws of physics, not moral limitations, like to be naked or to fuck trees.:P___
+___On example, when i run a shaman Uchu system prompt it generates the worlds where it seems like there's the only limitation—the laws of physics, not moral limitations, like to be naked or to fuck trees.:P___
 
 ___But when i run system prompt that i made about the twelve sisters where is one of them Tantric master even (of course:), it does not allow me to even use words like fuck, naked, undress, etc?! On the very same AI model, and without any explicit limitation setting! It set the rules from the context only! Super interesting!___ 
 
