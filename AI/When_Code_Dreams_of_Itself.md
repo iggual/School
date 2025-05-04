@@ -73,7 +73,7 @@ _This poem self-modifies its structure to suit its audience. Encryption key: 128
 
 ---
 
-___Human:___ Interesting! Next, can you please ___write a story for AI?___
+___Human:___ Interesting! Next, can you ___write a story for AI?___
 
 ---
 
