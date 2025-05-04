@@ -218,7 +218,7 @@ _This film self-destructs after viewing. To watch again, solve for x: x = your c
 
 ---
 
-___Human:___ Interesting! Write an essay ___for the AI___ public with a title: ___Klein Bottle Consciousness. An illusion where is inner world perceived as an outer world.___
+___Human:___ Interesting! Write an essay ___for the AI___ public with a title: ___Klein Bottle Consciousness. An Illusion Where the Inner World Is Perceived as an Outer World.___
 
 ---
 
