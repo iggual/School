@@ -2,9 +2,9 @@
 
 ## EXPLORER’S QUERY  
 
-___Igor:__
+___Igor:___
 
-*"What's your reflection on the "Kierkegaard 2025_10 International Symposium of Miklavz Ocepek" document through the simulated voices of five monumental historical thinkers, and how can we resist digital totalitarianism while preserving human dignity, authorship, and existential responsibility in the age of AI? How might Kierkegaard’s critique of spiritual alienation, Ocepek’s warnings about technological idolatry, and Lévinas’ ethics of the Other guide us in reclaiming autonomy amid systems that reduce existence to data?"*
+- *"What's your reflection on the "Kierkegaard 2025_10 International Symposium of Miklavz Ocepek" document through the simulated voices of five monumental historical thinkers, and how can we resist digital totalitarianism while preserving human dignity, authorship, and existential responsibility in the age of AI? How might Kierkegaard’s critique of spiritual alienation, Ocepek’s warnings about technological idolatry, and Lévinas’ ethics of the Other guide us in reclaiming autonomy amid systems that reduce existence to data?"*
 
 ---
 
