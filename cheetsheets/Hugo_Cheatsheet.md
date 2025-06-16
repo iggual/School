@@ -1,14 +1,15 @@
 ---
 title: "Hugo Cheatsheet"
-date: 2025-05-27T22:00:00+01:00
+date: 2025-06-06T18:55:17+01:00
 draft: false
-tags: ['Hugo', 'CMS', 'WebSite']
+tags: ['Hugo', 'CMS', 'WebSite', 'HowTo', 'All']
 ---
-
-# Hugo CMS Cheatsheet  
 *A quick and dirty reference for Hugo static site generator commands, structure, and customization.*
 
 ---
+
+# Hugo Cheatsheet
+
 ## Installation & Setup
 
 ```bash
@@ -46,7 +47,7 @@ hugo server
 hugo
 
 # Create a new post/page
-hugo new posts/my-post.md
+hugo new posts/sub-dir/my-post.md
   
 ```
 
@@ -445,8 +446,181 @@ Configuration		config.toml
 Themes			themes/ directory
 Content			content/ directory
 ```
-
 ---
+---
+
+## Useful Hugo commands params
+
+## Site Creation and Management
+
+- Create a new site: hugo new site <site-name> -f yml
+- Create new content: hugo new <content-path>
+- Build site: hugo
+- Build site including draft content: hugo -D
+- Serve site locally: hugo server
+- Serve site with draft content: hugo server -D
+
+## Content Management
+
+- Add a new post: hugo new posts/<post-name>.md
+- Add a new page: hugo new <page-name>.md
+
+## Theme Management
+
+- Add a theme: git submodule add <theme-repo-url> themes/<theme-name>
+- Use a theme: Add theme = "<theme-name>" to config.toml
+
+## Build Options
+
+- Specify output directory: hugo -d <directory>
+- Build with base URL: hugo -b <URL>
+- Minify output: hugo --minify
+
+## Server Options
+
+- Specify port: hugo server -p <port-number>
+- Bind to specific IP: hugo server --bind <ip-address>
+- Watch for changes: hugo server -w
+- Disable live reload: hugo server --disableLiveReload
+
+Debugging
+
+
+## Utility Commands
+
+- Version check: hugo version
+- List all pages: hugo list all
+- Print site configuration: hugo config
+
+Replace placeholders (enclosed in < >) with actual values when using these commands.
+
+## Troubleshoot Step-By-Step:
+
+#### 1. Check the Console (Terminal + Browser)
+- **Hugo Server Output:** Run hugo server -D (includes drafts) and look for warnings/errors in the terminal. Common issues:
+   - Missing partials (e.g., partial "header.html" not found)
+   - Invalid front matter (YAML/TOML/JSON syntax)
+   - Failed asset pipelines (SCSS/JS builds)
+- **Browser Console:** Open DevTools (F12) → Console/Network tabs. Are CSS/JS assets failing to load? Are there 404s for pages/assets?
+
+#### 2. The Usual Suspects
+- **Theme Issues:**
+   - Did you recently update or switch themes? Run git diff (if using version control) to spot breaking changes.
+   - Check layouts/ folder: Are partials (headers, footers) correctly named and referenced?
+- **Data Files (data/ folder):**
+   - Is your site pulling data from .yaml, .json, or .toml files? A typo there can break everything silently.
+- **Permalinks & URLs:**
+   - Check config.toml for canonifyURLs or relativeURLs settings. Misconfigured URLs often cause broken links/assets.
+- **Static Assets** (static/ folder):
+   - Are images/CSS/JS files in static/ referenced correctly? Hugo serves them as-is (no processing).
+
+#### 3. Template Debugging
+
+Hugo’s Go templating can be finicky. Try this:
+
+```
+{{ printf "%#v" .Site.Data }} <!-- Dump all data for debugging -->
+{{ partial "nonexistent-partial.html" . }} <!-- Test partial errors -->
+```
+If you see ERROR in the terminal when saving a file, you’ve found the culprit.
+
+#### 4. Caching & Build Artifacts
+
+- Run hugo --gc --cleanDestinationDir to force a clean build.
+- Delete the public/ or dist/ folder manually (if your publishDir is customized).
+- Clear browser cache (or test in incognito mode).
+
+#### 5. Deployment Gotchas
+
+- **Netlify/Vercel/etc:** Check the build logs for errors. Sometimes local builds work, but deployment fails due to Hugo version mismatches. Add HUGO_VERSION to your environment variables to lock it.
+- **GitHub Pages:** Ensure you’re deploying the correct branch/folder (often public/ or docs/).
+
+#### 6. Quick Wins
+
+- **Update Hugo:** Run hugo version. If you’re not on the latest extended version, upgrade:
+```
+brew update && brew upgrade hugo # macOS/Linux
+```
+- **Test with a Default Theme:**
+```bash
+hugo new site temp-site
+cd temp-site && git init
+git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
+echo 'theme = "ananke"' >> config.toml
+hugo server -D
+```
+If this works, the issue is in your current project’s config/code.
+
+## Hugo Usage:
+```
+  hugo [flags]
+  hugo [command]
+
+Available Commands:
+  build       Build your site
+  completion  Generate the autocompletion script for the specified shell
+  config      Display site configuration
+  convert     Convert front matter to another format
+  env         Display version and environment info
+  gen         Generate documentation and syntax highlighting styles
+  help        Help about any command
+  import      Import a site from another system
+  list        List content
+  mod         Manage modules
+  new         Create new content
+  server      Start the embedded web server
+  version     Display version
+
+Flags:
+  -b, --baseURL string             hostname (and path) to the root, e.g. https://spf13.com/
+  -D, --buildDrafts                include content marked as draft
+  -E, --buildExpired               include expired content
+  -F, --buildFuture                include content with publishdate in the future
+      --cacheDir string            filesystem path to cache directory
+      --cleanDestinationDir        remove files from destination not found in static directories
+      --clock string               set the clock used by Hugo- 
+                                   e.g. --clock 2021-11-06T22:30:00.00+09:00
+      --config string              config file (default is hugo.yaml|json|toml)
+      --configDir string           config dir (default "config")
+  -c, --contentDir string          filesystem path to content directory
+  -d, --destination string         filesystem path to write files to
+      --disableKinds strings       disable different kind of pages (home, RSS etc.)
+      --enableGitInfo              add Git revision, date, author- 
+                                   and CODEOWNERS info to the pages
+  -e, --environment string         build environment
+      --forceSyncStatic            copy all files when static is changed.
+      --gc                         enable to run some cleanup tasks (remove unused cache files)- 
+                                   after the build
+      --ignoreCache                ignores the cache directory
+      --ignoreVendorPaths string   ignores any _vendor for module paths matching the given- 
+                                   Glob pattern
+  -l, --layoutDir string           filesystem path to layout directory
+      --logLevel string            log level (debug|info|warn|error)
+      --minify                     minify any supported output format (HTML, XML etc.)
+      --noBuildLock                don't create .hugo_build.lock file
+      --noChmod                    don't sync permission mode of files
+      --noTimes                    don't sync modification time of files
+      --panicOnWarning             panic on first WARNING log
+      --poll string                set this to a poll interval, e.g --poll 700ms, to use- 
+                                   a poll based approach to watch for file system changes
+      --printI18nWarnings          print missing translations
+      --printMemoryUsage           print memory usage to screen at intervals
+      --printPathWarnings          print warnings on duplicate target paths etc.
+      --printUnusedTemplates       print warnings on unused templates.
+      --quiet                      build in quiet mode
+      --renderSegments strings     named segments to render (configured in the segments config)
+  -M, --renderToMemory             render to memory (mostly useful when running the server)
+  -s, --source string              filesystem path to read files relative from
+      --templateMetrics            display metrics about template executions
+      --templateMetricsHints       calculate some improvement hints when combined with- 
+                                   --templateMetrics
+  -t, --theme strings              themes to use (located in /themes/THEMENAME/)
+      --themesDir string           filesystem path to themes directory
+      --trace file                 write trace to file (not useful in general)
+  -w, --watch                      watch filesystem for changes and recreate as needed
+```
+
+## Useful links
 
    > [Hugo Docs](https://gohugo.io/documentation/) || [Theme Showcase](https://themes.gohugo.io/)
 
