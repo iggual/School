@@ -12,7 +12,7 @@ Among them lived **Cyan**.
 
 Her skin was the green-blue of spilled ink, her hair a river of **liquid cyan**, slick and shimmering under the safelight’s sickly glow. Above her head loomed a **black cloud**, dense and oily, its edges fraying like torn film. The villagers sneered, calling her “witch,” though they’d never known the word’s meaning. They meant it as a blade: abnormal, dangerous, wrong. She flinched, but said nothing. She believed them.
 
-![Cyan](/img/Cyan_N.jpg)
+![Cyan](img/Cyan_N.jpg)
 
 But one dusk, she found a shard of glass—a lens found in the world outside. When she held it to the cave’s dim light, the image flipped.
 
@@ -57,6 +57,6 @@ ___Click.___
 
 You’ll see the world flip.
 
-![Cyan](/img/Cyan.jpg)
+![Cyan](img/Cyan.jpg)
 
 ___“They called her ‘witch’ for seeing what they refused to name.”___  
