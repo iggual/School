@@ -2,7 +2,7 @@
 title: "Where Shadows Burn Bright"
 date: 2025-06-10T00:44:30+01:00
 draft: false
-tags: ['Story', 'Allegory', 'Philosophy', 'Mythology', 'Folklore', 'All']
+tags: ['Story', 'Allegory', 'Literature', 'Mythology', 'Folklore', 'All']
 ---
 ## The Witch Who Saw in Color
 
