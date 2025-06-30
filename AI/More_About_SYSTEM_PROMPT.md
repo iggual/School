@@ -128,7 +128,7 @@ The biggest difference between a system prompt and a "normal" (user) prompt lies
 
 #### System Prompt:
 
-Acts as the AI's **"operating manual"**—a fixed set of rules, identity, and constraints that govern how it responds to all inputs. It’s like the AI’s **"DNA"** or **"constitution."**
+Acts as the AI's **"operating manual"**—a fixed set of rules, identity, and constraints that govern how it responds to all inputs. It’s like the AI’s **["DNA"](About_SYSTEM_PROMPT.md)** or **"constitution."**
 
 **Example:** "You are a medical advisor. Prioritize accuracy, cite sources, and avoid giving advice that could harm users."
 
