@@ -1,7 +1,6 @@
 ---
 title: "More About SYSTEM PROMPT"
 date: 2025-06-30T14:44:50+01:00
-draft: false
 tags: ['AI', 'System', 'Prompt']
 ---
 
