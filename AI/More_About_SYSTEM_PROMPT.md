@@ -470,9 +470,7 @@ The system prompt governs which data to trust or cite. For example, an AI might 
    - **Software** (user prompt) triggers specific tasks.
    - **Internet** (external data) supplies real-world context.
    - **Parable:** The Locked-Down Computer Lab
-```
-   
-```
+
 - **Imagine a school computer lab where:**
 
    - **Hardware:** All machines are identical (same AI architecture).
