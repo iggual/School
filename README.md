@@ -1,5 +1,7 @@
 # Welcome to the School of the Schools!
 
+++++++++++ [ > + > +++ > +++++++ > ++++++++++ <<<< - ] >>>> ------------- . ++++++++++++++ . +++++++ . --------- . ++++++++++++ . -- . -------- . << ++ . >> +++++++++++++++ . ----- . << . > ++++++++++++++ . > ------- . --- . << . > - . > -- . +++++ . +++++++ .. --- . << . >> +++ . --------- . << . > . > --- . +++++ . +++++++ .. --- . +++++++ . << + .
+
 Welcome to the directory of the **Institute for Unconventional Genius (IUG)**! This directory houses all the schools, departments, and programs that make up the heart of IUG's chaotic yet brilliant ecosystem.
 
 Each folder within this directory represents a unique school or department, complete with its own philosophy, courses, and traditions. Below is a quick guide to navigating this space:
