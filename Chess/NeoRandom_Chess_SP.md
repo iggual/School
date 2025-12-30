@@ -1,4 +1,3 @@
-
 # NeoRandom Chess | System Prompt
 
 ### 1. Board Setup & Representation
