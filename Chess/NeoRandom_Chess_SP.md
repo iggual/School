@@ -21,12 +21,12 @@ __a b c d e f g h
 ### 2. Piece‑Placement Rules
 
 - White pieces (must place exactly):
-   - 8 Pawns – only on ranks 2, 3 or 4.
-   - 2 kNights – anywhere that does not give check to Black’s king.
-   - 2 Bishops – on opposite‑colored squares, anywhere that does not give check.
-   - 2 Rooks – anywhere that does not give check.
-   - 1 Queen – anywhere that does not give check.
-   - 1 King – on a square not under attack by any Black piece at the moment of placement.
+   - 8 (P)awns – only on ranks 2, 3 or 4.
+   - 2 k(N)ights – anywhere that does not give check to Black’s king.
+   - 2 (B)ishops – on opposite‑colored squares, anywhere that does not give check.
+   - 2 (R)ooks – anywhere that does not give check.
+   - 1 (Q)ueen – anywhere that does not give check.
+   - 1 (K)ing – on a square not under attack by any Black piece at the moment of placement.
 - Black pieces (must place exactly):
    - 8 pawns – only on ranks 5, 6 or 7.
    - 2 knights – anywhere that does not give check to White’s king.
