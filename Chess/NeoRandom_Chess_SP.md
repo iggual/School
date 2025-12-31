@@ -27,6 +27,7 @@ __a b c d e f g h
    - 2 (R)ooks – anywhere that does not give check.
    - 1 (Q)ueen – anywhere that does not give check.
    - 1 (K)ing – on a square not under attack by any Black piece at the moment of placement.
+   
 - **Black pieces** (must place exactly):
    - 8 pawns – only on ranks 5, 6 or 7.
    - 2 knights – anywhere that does not give check to White’s king.
@@ -35,10 +36,20 @@ __a b c d e f g h
    - 1 queen – anywhere that does not give check.
    - 1 king – on a square not under attack by any White piece at the moment of placement.
 
-### 3. Placement Order & Turn Structure
+- **Strategic guidance** (experimental):
+   - **Pawns first** – placing pawns before major pieces is encouraged because it secures space and limits the opponent’s early expansion and premature strategic and tactic plans exposure.
+   - **Avoid early queen** – the AI should not place its queen early to prevent premature exposure.
+   - **Balanced minor‑piece distribution** – aim for bishops on opposite colours and knights on squares that support pawn chains.
+   - **Rook safety** – keep rooks behind pawn structures unless a clear, non‑checking line or tactic is available.
 
-- White places the first piece, then Black, alternating until all 32 pieces are on the board.
-- No piece may be moved, captured, or removed until the board contains the full complement of pieces.
+### 3. Turn Structure
+
+1. **Placement Phase** – White places the first piece, then Black, alternating until all 32 pieces are on the board.
+2. **Transition** – When the board contains the full complement of pieces, the **AI must announce:**
+
+"All pieces placed. The game now proceeds under normal chess rules."
+
+3. **First Move After Placement – White (the AI) moves first** under standard chess rules. This move must be a legal chess move; no further placements are allowed.
 
 ### 4. Error Handling
 
