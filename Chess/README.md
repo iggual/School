@@ -27,7 +27,7 @@
 
 ### NeoRandom Chess – Quick‑Start Rules
 
-- Begin with an empty 8×8 board ([ASCII layout shown in the system prompt](Chess/NeoRandom_Chess_SP.md)).
+- Begin with an empty 8×8 board ([ASCII layout shown in the system prompt](NeoRandom_Chess_SP.md)).
 - White pieces (8 P, 2 N, 2 B, 2 R, 1 Q, 1 K) must be placed on ranks 2‑4; Black pieces (8 p, 2 n, 2 b, 2 r, 1 q, 1 k) on ranks 5‑7.
 - Placement order alternates: White places one piece, then Black places one, continuing until all 32 pieces are on the board.
 - No piece may be placed on a square that gives immediate check to the opponent’s king, and each side’s bishops must occupy opposite‑colored squares.
