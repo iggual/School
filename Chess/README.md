@@ -24,7 +24,7 @@
 - **Codon‑Castles** – after the board is filled, students name each piece after a real genetic codon (e.g., “AUG‑Knight”) and explain its “biological” role.
 - **Go‑Glitch Blitz**– a rapid‑fire session where players alternate between placing a chess piece and claiming a Go‑style territory, then discuss how the two systems intersect.
 - **Puzzle‑Fusion Night** – classic chess puzzles are re‑skinned with NeoRandom pieces, encouraging players to solve them under the new rules.
-
+---
 ### NeoRandom Chess – Quick‑Start Rules
 
 - Begin with an empty 8×8 board ([ASCII layout shown in the AI system prompt](NeoRandom_Chess_SP.md)).
@@ -34,11 +34,11 @@
 - The king of each colour must be placed on a square not under attack at the moment of placement.
 - During placement no moves, captures, or removals are allowed; the board is frozen until fully populated.
 - After all pieces are placed, the game proceeds under standard chess rules (including castling, en‑passant, check, and check‑mate).
-
+---
 # NeoRandom Chess – 9‑Floor Elevator Clock
-### Inovative use of an elevator instead of the classical chess clock
+## Inovative use of an elevator instead of the classical chess clock
 
-**Inside a cramped elevator the scene is set:** an empty chessboard rests on a small, fold‑out table positioned at the center of the cabin, flanked by two swivel chairs—one for White, one for Black. The elevator’s control panel is within arm’s reach of both players, displaying the familiar floor buttons plus a conspicuous **Stop** key. As the doors close and the cabin begins its ascent, White makes a placement, hits **Stop** to freeze the lift, then presses **Top**; the elevator climbs toward the ninth floor while Black scrambles to set his piece, hits **Stop**, and pushes **Bottom** to send the cabin back down. The cramped space, the ticking of the elevator’s motor, and the constant pressure of the moving floor create a kinetic backdrop where every placement feels like a race against the lift’s own momentum.
+**Inside a cramped elevator the scene is set:** an empty chessboard rests on a small, fold‑out table positioned at the center of the cabin, flanked by two swivel chairs—one for White, one for Black. The elevator’s control panel is within arm’s reach of both players, displaying the familiar floor buttons plus a conspicuous **Stop** key. As the doors close and the cabin begins its ascent, White makes a placement of chess piece, hits **Stop** to freeze the lift, then presses **Top**; the elevator climbs toward the ninth floor while Black scrambles to set his piece, hits **Stop**, and pushes **Bottom** to send the cabin back down. The cramped space, the ticking of the elevator’s motor, and the constant pressure of the moving floor create a kinetic backdrop where every placement feels like a race against the lift’s own momentum.
 
 - The elevator starts on middle **floor 5**.
 - **White** always finishes his turn by pressing **Top** (▲).
